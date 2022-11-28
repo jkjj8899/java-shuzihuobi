@@ -1,7 +1,7 @@
-# java虚拟币交易所
+# 数字货币币交易所-java系统交易所
 
 #### 介绍
-{**以下是 Gitee 平台说明，您可以替换此简介**
+**开源代码仅供参考学习，请勿用于非法用途；**
 Gitee 是 OSCHINA 推出的基于 Git 的代码托管平台（同时支持 SVN）。专为开发者提供稳定、高效、安全的云端软件开发协作平台
 无论是个人、团队、或是企业，都能够用 Gitee 实现代码托管、项目管理、协作开发。企业项目请看 [https://gitee.com/enterprises](https://gitee.com/enterprises)}
 
