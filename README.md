@@ -5,16 +5,19 @@
 **本源码仅限技术交流学习，凡涉及到法律问题与本人无关**
 
 **开放演示站原本是为了更好的直观的了解系统，但是很多别有用心的人拿演示站去忽悠别人都说是自己的，很无奈！**
-**演示无限期永久关闭！要看演示的，有价值需求的请移步：https://t.me/qidian108**
+**演示无限期永久关闭！要看演示的，有价值需求的请移步：https://t.me/seven566789**
 #### 软件架构
 软件架构说明
+![123](https://github.com/jkjj8899/java-shuzihuobi/assets/152266072/f8eee0ab-9be5-4ec1-9668-b5415aa66908)
+
+![photo_2024-04-20_02-04-02](https://github.com/jkjj8899/java-shuzihuobi/assets/152266072/3fca5042-eaf7-4bc3-8325-d5353989c198)
+![photo_2024-04-20_02-04-12](https://github.com/jkjj8899/java-shuzihuobi/assets/152266072/739e96c8-fb58-4bcb-981e-764626f28d46)
+![photo_2024-04-20_02-04-21](https://github.com/jkjj8899/java-shuzihuobi/assets/152266072/62fe8ccf-6b06-43b0-bdc0-3376cd9f0863)
+![photo_2024-04-20_02-04-24](https://github.com/jkjj8899/java-shuzihuobi/assets/152266072/09354951-e048-4466-aa85-e3867204458e)
 
 
-#### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+
 
 #### 使用说明
 
